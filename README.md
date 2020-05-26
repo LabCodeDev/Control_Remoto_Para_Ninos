@@ -26,7 +26,7 @@ Solo necesitariamos lo siguiente:
 ## 🚀 Esto se puede mejorar con el tiempo. 🚀
 
 
-<img src="./doc_img/SKY-KIDS.jpg" width="33%" alt="Control Claro Kid"/><img src="./doc_img/Control-kids-2.jpeg" width="33%" alt="Control SKY KID"/><img src="./doc_img/Sony-Control-ninos.jpg" width="33%" alt="Control Claro Kid"/> 
+<img src="./doc_img/SKY-KIDS.jpg" width="33%" alt="Control Claro Kid"/><img src="./doc_img/Control-Kids-2.jpeg" width="33%" alt="Control SKY KID"/><img src="./doc_img/Sony-Control-ninos.jpg" width="33%" alt="Control Claro Kid"/> 
 
 
 
